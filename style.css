@@ -27,7 +27,7 @@ body {
 .card {
     padding: 1.5em;
     border: 2px solid var(--Gray-950);
-    max-width: 384px; 
+    max-width: 384px;
     width: 100%;
     border-radius: 20px;
     background-color: var(--White);
@@ -47,7 +47,7 @@ body {
 }
 
 
-.card img:first-of-type {
+.img-holder img {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 1.5em;
@@ -108,8 +108,8 @@ body {
 
 
 .publisher-info img {
-    width: 32px;
-    border-radius: 50%; 
+    width: 40px;
+    border-radius: 50%;
     margin-right: 12px;
 }
 
